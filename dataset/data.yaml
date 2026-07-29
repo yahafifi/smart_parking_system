@@ -1,0 +1,9 @@
+path: C:/Users/Yahia/Desktop/smart_parking_system/dataset
+
+train: images/train
+val: images/valid
+test: images/test
+
+names:
+  0: empty
+  1: occupied
